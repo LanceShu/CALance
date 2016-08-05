@@ -230,4 +230,3 @@ public class end_to_result {
         return Double.valueOf(x.get(0))+"";
     }
 }
-
